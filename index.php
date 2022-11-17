@@ -6,8 +6,7 @@
 </head>
 
 <body>
-	Hola Mundo..
-	a
+	Hola Mundo.
 
 </body>
 </html>
